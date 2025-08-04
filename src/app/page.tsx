@@ -27,6 +27,13 @@ export default function Home() {
           </a>
         </div>
       </main>
+      <footer className="row-start-3 flex flex-col items-center text-center text-xs text-gray-500 dark:text-gray-400">
+        <div className="space-y-1">
+          <div>@ Niksleri LLC</div>
+          <div>S. Zakariadze I Lane N21, Zestaponi, 2000, Georgia</div>
+          <div>CoC ID: 430034081</div>
+        </div>
+      </footer>
     </div>
   );
 }
